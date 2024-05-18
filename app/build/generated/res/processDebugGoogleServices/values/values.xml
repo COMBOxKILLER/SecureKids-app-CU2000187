@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">480566397634</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbBK1WETET4D8wQlL9uTHpl_x4Jmo6Z7E</string>
+    <string name="google_app_id" translatable="false">1:480566397634:android:9cfee23384a22d5f56c95b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbBK1WETET4D8wQlL9uTHpl_x4Jmo6Z7E</string>
+    <string name="google_storage_bucket" translatable="false">monitoring-api-417403.appspot.com</string>
+    <string name="project_id" translatable="false">monitoring-api-417403</string>
+</resources>

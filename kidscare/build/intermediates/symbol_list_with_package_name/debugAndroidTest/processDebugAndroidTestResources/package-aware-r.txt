@@ -1,0 +1,3 @@
+com.example.kidscare.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

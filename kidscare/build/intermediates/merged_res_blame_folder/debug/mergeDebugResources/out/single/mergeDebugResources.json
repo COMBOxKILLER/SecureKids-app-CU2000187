@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidscare-debug-90:/drawable_moneyjar.png.flat",
+        "source": "com.example.kidscare-main-92:/drawable/moneyjar.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_unknown.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_ic_trophy.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\ic_trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_girl.jpg.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\girl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_last_minute.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\last_minute.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_senario3.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\senario3.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_parent_guide_logo_svg.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\parent_guide_logo_svg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_img_coin.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\img_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_senario1.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\senario1.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_monitor.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\monitor.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\xml_device_admin.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\xml\\device_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_img_store.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\img_store.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\layout_content_unlock_dialog.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\layout\\content_unlock_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_boy.jpg.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\boy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_kides_care.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\kides_care.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_ic_cancel.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_ic_lock.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_senario2.png.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\senario2.png"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\layout_activity_unlock_dialog.xml.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\layout\\activity_unlock_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-debug-90:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mosta\\.gradle\\daemon\\8.4\\com.example.kidscare-main-92:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

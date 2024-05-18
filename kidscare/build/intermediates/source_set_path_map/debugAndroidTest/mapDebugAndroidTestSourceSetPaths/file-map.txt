@@ -1,0 +1,6 @@
+com.example.kidscare.test.kidscare-core-1.5.0-0 C:\Users\mosta\.gradle\caches\transforms-3\409c29400c2ab53efe15e036c9f3f9f3\transformed\core-1.5.0\res
+com.example.kidscare.test.kidscare-annotation-experimental-1.4.0-1 C:\Users\mosta\.gradle\caches\transforms-3\5c530543348f2c9883c419bfcc7fe8df\transformed\annotation-experimental-1.4.0\res
+com.example.kidscare.test.kidscare-androidTest-2 C:\Users\mosta\StudioProjects\parentguide\kidscare\build\generated\res\resValues\androidTest\debug
+com.example.kidscare.test.kidscare-mergeDebugAndroidTestResources-3 C:\Users\mosta\StudioProjects\parentguide\kidscare\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.kidscare.test.kidscare-mergeDebugAndroidTestResources-4 C:\Users\mosta\StudioProjects\parentguide\kidscare\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.kidscare.test.kidscare-debugAndroidTest-5 C:\Users\mosta\StudioProjects\parentguide\kidscare\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

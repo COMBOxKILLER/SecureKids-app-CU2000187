@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.kidscare-mergeDebugResources-89:/layout/fragment_second.xml",
+        "source": "com.example.kidscare-main-92:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.kidscare-mergeDebugResources-89:/layout/activity_unlock_dialog.xml",
+        "source": "com.example.kidscare-main-92:/layout/activity_unlock_dialog.xml"
+    },
+    {
+        "merged": "com.example.kidscare-mergeDebugResources-89:/layout/activity_maps.xml",
+        "source": "com.example.kidscare-main-92:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.kidscare-mergeDebugResources-89:/layout/content_unlock_dialog.xml",
+        "source": "com.example.kidscare-main-92:/layout/content_unlock_dialog.xml"
+    },
+    {
+        "merged": "com.example.kidscare-mergeDebugResources-89:/layout/fragment_first.xml",
+        "source": "com.example.kidscare-main-92:/layout/fragment_first.xml"
+    }
+]
