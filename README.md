@@ -17,8 +17,6 @@ SecureKids is an interactive Android application designed to educate children ab
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/COMBOxKILLER/SecureKids-app-CU2000187.git
-
-
 Open the project in Android Studio:
 Launch Android Studio and select "Open an existing project", then navigate to the cloned repository.
 Run the application:
